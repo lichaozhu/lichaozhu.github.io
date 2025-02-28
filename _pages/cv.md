@@ -9,28 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+En poste
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Maître de conférences en sciences du langage, depuis 1er septembre 2022
+  * Université Paris Cité
+  * Laboratoire Approches Linguistiques Théoriques, Appliquées et Expérimentales (ALTAE), URP 3967 
+  * UFR Etudes Interculturelles de Langues Appliquées (EILA)
 
-Work experience
+
+Cursus
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Docteur en sciences du langage, Université Sorbonne Paris Nord, 2014
+  * "Typologie du défigement dans les médias écrits français", sous la direction de Salah Mejri
+* Master en traitement automatique des langues, Université Sorbonne Paris Nord, 2018
+* Master en traductologie, Université de Caen, 2010
   
 Skills
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!---Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams--->
