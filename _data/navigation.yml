@@ -9,13 +9,13 @@ main:
     url: /publications/  
 
   - title: "Projets"
-    url: /teaching/ 
+    url: /projets/ 
 
-  - title: "Conférence invitée"
-    url: /talks/  
+  - title: "Conférences invitées"
+    url: /conferences/  
 
-  - title: "Enseignement"
-    url: /teaching/    
+  - title: "Enseignements"
+    url: /enseignements/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
