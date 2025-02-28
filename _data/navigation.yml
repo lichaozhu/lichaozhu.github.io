@@ -11,8 +11,8 @@ main:
   - title: "Projets"
     url: /projets/ 
 
-  - title: "Conférences invitées"
-    url: /conferences/  
+  #- title: "Conférences invitées"
+  #  url: /conferences/  
 
   - title: "Enseignements"
     url: /enseignements/    
