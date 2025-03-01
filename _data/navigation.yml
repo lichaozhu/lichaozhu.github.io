@@ -28,7 +28,7 @@ main:
     url: /cv/
   
   - title: "english"
-    url: https://lichaozhu-en.github.io 
+    url: /en/
 
   - title: "Guide"
     url: /markdown/
